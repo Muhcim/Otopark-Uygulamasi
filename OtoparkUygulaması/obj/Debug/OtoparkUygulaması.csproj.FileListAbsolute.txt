@@ -1,0 +1,10 @@
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\bin\Debug\OtoparkUygulaması.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.OtoParkGirişÇıkış.resources
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\bin\Debug\OtoparkUygulaması.exe
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\bin\Debug\OtoparkUygulaması.pdb
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.exe
+c:\users\everest\documents\visual studio 2013\Projects\OtoparkUygulaması\OtoparkUygulaması\obj\Debug\OtoparkUygulaması.pdb
